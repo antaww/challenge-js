@@ -1,1 +1,1 @@
-let oldestAge = Math.max(age)
+let oldestAge = Math.max(number)
