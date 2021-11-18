@@ -1,2 +1,2 @@
 let loot = vault[secret];
-loot = 'hey'
+loot = '1/2 MM $'
