@@ -1,9 +1,9 @@
 let address = {
-    city : string,
-    postcode  : number,
+    city : typeof 'string',
+    postcode  : typeof 'number',
     street : {
-        name : string,
-        age : number,
+        name : typeof 'string',
+        age : typeof 'number',
     }
 }
 
