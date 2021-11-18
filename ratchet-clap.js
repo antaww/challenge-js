@@ -1,1 +1,1 @@
-let ratchetClap = words.split('👏') + '👏';
+let ratchetClap = words.join('👏') + '👏';
