@@ -4,7 +4,7 @@ let street = {
 }
 
 let address = {
-    city : typeof 'city',
+    city : typeof 'string',
     postcode  : typeof 1,
     street
 }
