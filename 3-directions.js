@@ -1,5 +1,5 @@
 let first = list[0]
 const length = list.length
 let last = list[length-1]
-let kiss = list [lenght-1,0]
+let kiss = list [length-1,0]
 
