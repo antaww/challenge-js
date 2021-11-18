@@ -1,0 +1,1 @@
+let duplicate = `${sentence}, ${sentence} !`
