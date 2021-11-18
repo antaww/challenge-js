@@ -1,2 +1,2 @@
-popArtists.pop();
-popArtists.shift();
+popArtists.pop(); //delete last index
+popArtists.shift(); //delete first index
