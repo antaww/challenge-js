@@ -3,7 +3,7 @@ let address = {
     postcode  : 1,
     street : {
         name : 'name',
-        age : 1,
+        number : 1,
     }
-};
+}
 
