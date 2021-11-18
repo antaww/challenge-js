@@ -1,5 +1,5 @@
 let whiteRabbit = {
-    whiteRabbit : '🐰',
+    key : '🐰',
 }
 
 let traitor = secretData['Mr. Reagan']
