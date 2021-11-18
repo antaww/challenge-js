@@ -5,5 +5,5 @@ let address = {
         name : 'name',
         age : 1,
     }
-}
+};
 
