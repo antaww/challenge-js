@@ -1,11 +1,11 @@
 let parent = {
     child : {
-        parent
+        child
     }
 }
 
 let child = {
     parent : {
-        child
+        parent
     }
 }
