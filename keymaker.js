@@ -1,5 +1,5 @@
 let whiteRabbit = {
-    emoji : '🐰',
+    whiteRabbit : '🐰',
 }
 
 let traitor = secretData['Mr. Reagan']
