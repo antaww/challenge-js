@@ -1,1 +1,1 @@
-let oldestAge = Math.max(martin,kevin,stephanie)
+let oldestAge = Math.max(martin.age,kevin.age,stephanie.age)
