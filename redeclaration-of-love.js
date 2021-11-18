@@ -1,1 +1,1 @@
-var love = 'I still love you !!'
+love = 'I still love you !!'
