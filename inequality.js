@@ -1,1 +1,1 @@
-let inequality = isNaN
+let inequality = NaN
