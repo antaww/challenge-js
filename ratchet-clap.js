@@ -1,1 +1,3 @@
-let words = sentence.split('');
+let words = sentence.split('👏');
+
+let ratchetClap = words + '👏';
