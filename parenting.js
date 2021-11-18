@@ -1,11 +1,9 @@
 let parent = {
-    child : {
-        child
-    }
+    child : ''
 }
 
 let child = {
-    parent : {
-        parent
-    }
+    parent : parent
 }
+
+parent.child = child
