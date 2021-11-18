@@ -1,3 +1,3 @@
 poem.trim();
-var lines = poem.split('\r');
+var lines = poem.split('\n');
 let linesCount = lines.length;
