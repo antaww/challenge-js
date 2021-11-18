@@ -1,0 +1,1 @@
+let words = sentence.split(' ');
