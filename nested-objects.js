@@ -1,11 +1,11 @@
 let street = {
     name : 'name',
-    age : 1,
+    age : undefined,
 }
 
 let address = {
     city : 'city',
-    postcode  : 1,
+    postcode  : undefined,
     street
 }
 
