@@ -2,7 +2,7 @@ let purchasableGoods = ['arrows', 'boots', 'sword'];
 
 
 if(playerCoins<3){
-    purchasableGoods[purchasableGoods.pop];
+    purchasableGoods.length = 0;
 }else if(playerCoins>=3){
     purchasableGoods[0];
 } else if(playerCoins>=44){
