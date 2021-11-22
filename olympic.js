@@ -1,11 +1,11 @@
-if(athletes.indexOf('Pedro') == 1){
-    console.log('🥇');
-} else if(athletes.indexOf('Pedro') == 2){
-    console.log('🥈');
-} else if(athletes.indexOf('Pedro') == 3){
-    console.log('🥉');
+if(athletes.indexOf('Pedro')+1 == 1){
+    let emoji = '🥇';
+} else if(athletes.indexOf('Pedro')+1 == 2){
+    let emoji = '🥈';
+} else if(athletes.indexOf('Pedro')+1 == 3){
+    let emoji = '🥉';
 } else {
-    console.log('😞');
+    let emoji = '😞';
 }
 
-console.log(' Perdo is #' + athletes.indexOf('Pedro'));
+console.log(emoji + ' Perdo is #' + athletes.indexOf('Pedro')+1);
