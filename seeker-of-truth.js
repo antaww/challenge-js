@@ -1,5 +1,5 @@
-if(truth != 0){
+if(truth){
     console.log('The truth was spoken.');
-} else if(truth == NaN) {
+} else {
     console.log('Lies !!!!');
 }
