@@ -1,3 +1,5 @@
+let emoji = '';
+
 if(athletes.indexOf('Pedro')+1 == 1){
     let emoji = '🥇';
 } else if(athletes.indexOf('Pedro')+1 == 2){
