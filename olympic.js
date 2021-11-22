@@ -5,6 +5,6 @@ if(athletes.indexOf('Pedro')+1 == 1){
 } else if(athletes.indexOf('Pedro')+1 == 3){
     console.log('🥉');
 } else {
-    console.log('\'😞 Perdo is #' + athletes.indexOf('Pedro')+1 + '\'');
+    console.log('\'😞 Pedro is #' + athletes.indexOf('Pedro')+1 + '\'');
 }
 
