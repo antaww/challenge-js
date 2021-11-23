@@ -15,5 +15,6 @@ let shaker = (quantity, fruit, alcohol) => {
             drink = 'milkshakes';
         }
     }
-    return(quantity + ' ' + fruit + ' ' + drink);
+    return(`${quantity} ${fruit} ${drink}`);
+
 }
