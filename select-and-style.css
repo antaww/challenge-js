@@ -8,20 +8,20 @@ body {
     height: 100vh;
 }
 
-a {
+section {
     padding: 20px;
     width:100%;
     height:calc(100% / 3);
 }
 
 #face {
-    color: cyan;
+    background-color: cyan;
 }
 
 #upper-body {
-    color: blueviolet;
+    background-color: blueviolet;
 }
 
 #lower-body {
-    color:lightsalmon;
+    background-color:lightsalmon;
 }
