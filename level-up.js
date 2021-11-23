@@ -14,5 +14,5 @@ let shaker = (quantity, fruit, alcohol) => {
             alcohol = 'milkshakes';
         }
     }
-    return(quantity + fruit + alcohol);
+    return(quantity + ' ' + fruit + ' ' + alcohol);
 }
