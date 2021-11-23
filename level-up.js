@@ -1,5 +1,5 @@
 let shaker = (quantity, fruit, alcohol) => {
-
+    let drink = '';
     if(alcohol == true) {
         drink = 'cocktail';
         if(quantity > 1){
