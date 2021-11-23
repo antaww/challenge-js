@@ -4,14 +4,14 @@ let shaker = (quantity, fruit, alcohol) => {
     alcohol = Boolean;
 
     if(alcohol == true) {
-        alcohol = cocktail;
+        alcohol = 'cocktail';
         if(quantity > 1){
-            alcohol = cocktails;
+            alcohol = 'cocktails';
         }
     } else {
-        alcohol = milkshake;
+        alcohol = 'milkshake';
         if(quantity > 1){
-            alcohol = milkshakes;
+            alcohol = 'milkshakes';
         }
     }
     return(quantity + fruit + alcohol);
