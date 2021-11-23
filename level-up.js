@@ -1,8 +1,4 @@
 let shaker = (quantity, fruit, alcohol) => {
-    quantity = Number;
-    fruit = String;
-    alcohol = Boolean;
-    let drink = String;
 
     if(alcohol == true) {
         drink = 'cocktail';
@@ -15,6 +11,6 @@ let shaker = (quantity, fruit, alcohol) => {
             drink = 'milkshakes';
         }
     }
-    return(`${quantity} ${fruit} ${drink}`);
-
+    let result = `${quantity} ${fruit} ${drink}`;
+    return result;
 }
