@@ -15,13 +15,13 @@ a {
 }
 
 #face {
-    background-color: cyan;
+    color: cyan;
 }
 
 #upper-body {
-    background-color: blueviolet;
+    color: blueviolet;
 }
 
 #lower-body {
-    background-color:lightsalmon;
+    color:lightsalmon;
 }
