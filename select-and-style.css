@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    box-sizing:border-box;
+    opacity:0.85;
+}
+
+body {
+    height: 100vh;
+}
+
+a {
+    padding: 20px;
+    width:100%;
+    height:calc(100% / 3);
+}
+
+#face {
+    background-color: cyan;
+}
+
+#upper-body {
+    background-color: blueviolet;
+}
+
+#lower-body {
+    background-color:lightsalmon;
+}
