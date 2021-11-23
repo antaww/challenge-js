@@ -2,17 +2,18 @@ let shaker = (quantity, fruit, alcohol) => {
     quantity = Number;
     fruit = String;
     alcohol = Boolean;
+    let drink = String;
 
     if(alcohol == true) {
-        alcohol = 'cocktail';
+        drink = 'cocktail';
         if(quantity > 1){
-            alcohol = 'cocktails';
+            drink = 'cocktails';
         }
     } else {
-        alcohol = 'milkshake';
+        drink = 'milkshake';
         if(quantity > 1){
-            alcohol = 'milkshakes';
+            drink = 'milkshakes';
         }
     }
-    return(quantity + ' ' + fruit + ' ' + alcohol);
+    return(quantity + ' ' + fruit + ' ' + drink);
 }
